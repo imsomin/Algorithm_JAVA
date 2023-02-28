@@ -6,31 +6,30 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
-            "console": "internalConsole",
+            "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Launch test001",
+            "name": "test001",
             "request": "launch",
             "mainClass": "test001",
-            "projectName": "CodingTest_JAVA_5ded638d"
+            "projectName": "Algorithm_JAVA_3eb7c0ca"
         },
         {
             "type": "java",
-            "name": "Launch test002",
+            "name": "test002",
             "request": "launch",
             "mainClass": "test002",
-            "projectName": "CodingTest_JAVA_5ded638d"
+            "projectName": "Algorithm_JAVA_3eb7c0ca"
         },
         {
             "type": "java",
-            "name": "Launch test003",
+            "name": "test003",
             "request": "launch",
             "mainClass": "test003",
-            "projectName": "CodingTest_JAVA_5ded638d"
+            "projectName": "Algorithm_JAVA_3eb7c0ca"
         }
     ]
 }
